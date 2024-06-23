@@ -95,7 +95,7 @@
 #imagelightbox-loading,
 #imagelightbox-overlay,
 #imagelightbox-close,
-#imagelightbox-caption,
+#imagelightbox-caption
 {
     -webkit-animation: fade-in .25s linear;
     animation: fade-in .25s linear;
